@@ -3,4 +3,4 @@ Here you can find user dictionaries for text prediction on keyboards
 </br>
 Amazigh UD 1.txt is word per line file.
 </br>
-Use UDM app for importing it to the right language code. usually zgh for Standard Moroccan Amazigh. ber For Amazigh. tzm for Central Amazigh (Morocco). tf for Amazigh on Multiling O Keyboard.
+Use UDM app for importing it to the right language code. usually to zgh ber or zgh-Tfng. tf is what used on Multiling O Keyboard. check out your keyboard what language it uses for Amazigh.
