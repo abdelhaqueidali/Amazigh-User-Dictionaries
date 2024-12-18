@@ -1,5 +1,5 @@
 # Amazigh-User-Dictionaries
-Here you can find user dictionaries for text prediction on keyboards
+Here you can find user dictionaries for text prediction on keyboards. These dictionaries are created from ircam datasets of DGLAi dictionary and Amsfti for verbs.
 </br>
 Amazigh UD 1.txt is word per line file.
 </br>
